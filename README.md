@@ -1,0 +1,1 @@
+# KondaCharana-Talk_to_Gemini_with_Google-s_Speech_to_Text_API
